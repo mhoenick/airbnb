@@ -1,4 +1,5 @@
 pictures
+.ipynb_checkpoints
 reviews.csv
 listings.csv
 calendar.csv
