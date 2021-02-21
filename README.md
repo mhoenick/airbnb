@@ -28,7 +28,7 @@ There is one jupyter notebook available containing the evaluation code and chart
 ## Results <a name="results"></a>
 
 Analysis results of the code presented in summary at the Medium site:<br>
-https://medium.com/p/acdfb0a703a7/edit
+https://matzexc.medium.com/airbnb-seattle-weekend-price-variation-review-acdfb0a703a7
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
